@@ -18,7 +18,8 @@ Once we have the Census data, we'll need to map the data with visualization soft
 - to build visualizations in Tableau (i.e., ART CONTEST!),
 - to build a set of best practices from the visualization process, and
 - to teach others how to build those visualizations.
-We have gathered some sample data to work with (population and black population), so those who want to focus solely on mapping can get started while the data miners' guild gets to work building out the catalog.
+
+We have gathered some sample data to work with (population and black population), so the mapping experts/non-experts can get started while the data miners' guild gets to work building out the catalog.
 
 **Expertise Needed** We could use some experts in Tableau and Census API data, but, as we're teaching this to non-experts, *we also need non-experts!* This is a fantastic opportunity to learn how to use Tableau and learn how to mine Census API data!
 
